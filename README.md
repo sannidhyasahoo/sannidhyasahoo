@@ -1,5 +1,6 @@
 ## Hey 👋 I'm Sannidhya Sahoo (aka. Zrypton)
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=sannidhyasahoo&theme=highcontrast&scale=log&font=jetbrains&grace=7)
+
 🎓 2nd year Information Science Engineering student @ MSRIT  
 💻 Passionate about Software Engineering, AI, and Competitive Programming  
 🚀 Love building things that actually work
