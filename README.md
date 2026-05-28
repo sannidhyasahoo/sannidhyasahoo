@@ -1,10 +1,11 @@
-## Hey 👋 I'm Sannidhya Sahoo (aka. Zrypton)
+<img width="2247" height="1319" alt="image" src="https://github.com/user-attachments/assets/1023528e-7d0a-4f7b-beb4-1fadd02f68b0" />## Hey 👋 I'm Sannidhya Sahoo (aka. Zrypton)
 
 🎓 2nd year Information Science Engineering student @ MSRIT  
 💻 Passionate about Software Engineering, AI, and Competitive Programming  
 🚀 Love building things that actually work
 
 ---
+![CommitPulse](https://commitpulse.vercel.app/api/streak?user=sannidhyasahoo&theme=highcontrast&scale=log&font=jetbrains&grace=7)
 
 ### 🧠 Currently Working On
 - AI-powered products & SaaS ideas
