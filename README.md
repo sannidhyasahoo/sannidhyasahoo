@@ -40,6 +40,7 @@
 - **InsuranceIQ** – AI-powered insurance optimization advisor
 
 ---
+![](https://komarev.com/ghpvc/?username=sannidhyasahoo)
 
 ### 🌐 Connect With Me
 - Twitter/X: https://twitter.com/sannidhyasahoo
