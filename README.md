@@ -1,4 +1,4 @@
-## Hey 👋 I'm Sannidhya Sahoo (aka. Zrypton)
+## Hey 👋 I'm Sannidhya Sahoo
 ![CommitPulse](https://commitpulse.vercel.app/api/streak?user=sannidhyasahoo&theme=highcontrast&scale=log&font=jetbrains&grace=7)
 
 🎓 2nd year Information Science Engineering student @ MSRIT  
